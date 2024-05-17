@@ -1,0 +1,12 @@
+nav a{
+  text-decoration: none;
+  margin: 25px;
+  font-size: x-large;
+  color: black;
+}
+
+.navbar-collapse{
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
